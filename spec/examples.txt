@@ -1,0 +1,11 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/models/zombie_spec.rb[1:1]   | passed | 0.00099 seconds |
+./spec/models/zombie_spec.rb[1:2]   | passed | 0.00081 seconds |
+./spec/models/zombie_spec.rb[1:3]   | passed | 0.00084 seconds |
+./spec/models/zombie_spec.rb[1:4]   | passed | 0.00716 seconds |
+./spec/models/zombie_spec.rb[1:5]   | passed | 0.00085 seconds |
+./spec/models/zombie_spec.rb[1:6:1] | passed | 0.00077 seconds |
+./spec/models/zombie_spec.rb[1:6:2] | passed | 0.00127 seconds |
+./spec/models/zombie_spec.rb[1:7:1] | passed | 0.00382 seconds |
+./spec/models/zombie_spec.rb[1:8:1] | passed | 0.00438 seconds |
